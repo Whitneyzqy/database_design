@@ -1,8 +1,9 @@
 # INFO430 Group Project Cruise Ship Database Code
 
-Project code for the course info 430 at UW during SP22
+Project code for the course INFO430 at UW in SP22.
 
-## Created by: Miranda Ma, Joy Zhang, Anthony Zhang, Whitney Zhang
+Created by: Miranda Ma, Joy Zhang, Anthony Zhang, Whitney Zhang
+
 #### 1. Business space
 Our team is choosing to focus on building a cruise ship database. This is an
 important travel method that millions of people may choose when they are on a
